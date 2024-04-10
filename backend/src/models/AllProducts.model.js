@@ -1,0 +1,59 @@
+const mongoose = require("mongoose")
+const schema = new mongoose.Schema({
+    title:{
+ type:String,
+        required:true
+    },
+             subtitle:{
+        type:String,
+        required:true
+    },
+    vendor_name:{
+        type:String,
+        required:true
+    },
+    old_price:{
+        type:Number,
+        required:true
+    },
+    price:{
+        type:Number,
+        required:true
+    },
+     colors:{
+        type:[],
+        default:[]
+    },
+    size:{
+        type:String,
+        default:''
+    },
+    product_feature:{
+        type:String,
+        required:true
+    },
+    rating:{
+        type:Number,
+        default:1
+    },
+    patterns:{
+        type:String,
+        required:true
+    },
+    print_location:{
+        type:String,
+        required:true
+    },
+    tags:{
+        type:[],
+        default:[]
+    },
+    finish:{
+        type:String,
+        required:true
+    }
+},{
+    timestamps:true
+})
+
+module.exports = mongoose.model("all-products",schema);

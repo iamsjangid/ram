@@ -1,0 +1,16 @@
+PORT = 8888
+
+MONGO_URI = "mongodb://localhost/mynstar"
+MONGO_URI =mongodb+srv://mynstars:2uSVzG5zUNvZnbWa@cluster0.rmlszpl.mongodb.net/mynstar
+
+ENV = DEVELOPMENT
+
+JWT_KEY = "@#$%^&*(@#$%^&*())#########"
+JWT_ADMIN_KEY = "@#$%^&*(@#$%^&*())#########(*&^%$)"
+
+RAZORPAY_KEY_ID="rzp_test_i8eEWosjuFbzMi"
+RAZORPAY_KEY_SCREATE="PMon31255tL5zIQlPk3A2QWs"
+
+CLOUDINARY_CLOUD_NAME="dfyasiqxg"
+CLOUDINARY_API_KEY="633467269745674"
+CLOUDINARY_API_SCREATE="7sObL6ieQyoIg_9UfF6xr5LsaBQ"

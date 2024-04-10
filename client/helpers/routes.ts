@@ -1,0 +1,1 @@
+export const white_routes_hidden_header_footer:string[] = ['/signup','/signin','/password_resets','/register_email']

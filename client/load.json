@@ -1,0 +1,41 @@
+{
+    "products": [
+        {
+            "_id": "65f5a72fc9c629211793e2e0",
+            "product": {
+                "_id": "65ec63d0d7ef373dfc6a55b2",
+                "title": "dasda",
+                "images": [
+                    {
+                        "file": "https://res.cloudinary.com/dfyasiqxg/image/upload/v1709990858/products/prmv9iylijwyivqvsghk.png",
+                        "public_id": "products/prmv9iylijwyivqvsghk",
+                        "_id": "65ec63d0d7ef373dfc6a55b3"
+                    },
+                    {
+                        "file": "https://res.cloudinary.com/dfyasiqxg/image/upload/v1709990861/products/vtc17cszovtylgqpk6ga.png",
+                        "public_id": "products/vtc17cszovtylgqpk6ga",
+                        "_id": "65ec63d0d7ef373dfc6a55b4"
+                    },
+                    {
+                        "file": "https://res.cloudinary.com/dfyasiqxg/image/upload/v1709990862/products/znwwyc4lzc1fz8p81vxv.png",
+                        "public_id": "products/znwwyc4lzc1fz8p81vxv",
+                        "_id": "65ec63d0d7ef373dfc6a55b5"
+                    },
+                    {
+                        "file": "https://res.cloudinary.com/dfyasiqxg/image/upload/v1709990864/products/bttn3q1ddal0y0itsec3.png",
+                        "public_id": "products/bttn3q1ddal0y0itsec3",
+                        "_id": "65ec63d0d7ef373dfc6a55b6"
+                    }
+                ]
+            },
+            "qty": 1,
+            "isPresent": true,
+            "createdAt": "2024-03-16T14:05:35.597Z",
+            "updatedAt": "2024-03-16T14:05:35.597Z",
+            "__v": 0
+        }
+    ],
+    "total": 1,
+    "totalPrice": 0,
+    "shipping": 0
+}
